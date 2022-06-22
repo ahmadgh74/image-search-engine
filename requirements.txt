@@ -7,7 +7,7 @@ mkl-fft==1.0.15
 mkl-random==1.1.0
 mkl-service==2.3.0
 numba==0.48.0
-numpy==1.18.1
+numpy==1.22.0
 opencv-python==4.2.0.32
 pyparsing==2.4.6
 PyQt5==5.14.1
